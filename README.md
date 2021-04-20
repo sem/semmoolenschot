@@ -3,9 +3,7 @@
 <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=semmoolenschot&theme=radical)](https://git.io/streak-stats)">
 
 
-# Hey there!
+# Hello fellow developer 👋
 
-My name is Sem Moolenschot
-- 16 years old
-- learning python
+# About me 📌
 
