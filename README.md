@@ -6,3 +6,6 @@
 # Hey there!
 
 My name is Sem Moolenschot
+- 16 years old
+- learning python
+
