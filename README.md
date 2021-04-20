@@ -7,5 +7,5 @@
 
 ### About me 📌
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?semmoolenschot" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semmoolenschot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
