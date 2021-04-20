@@ -1,5 +1,6 @@
 <h1 align="left">Hi fellow developers 👋</h1>
-<h3 align="left">My name is Sem Moolenschot</h3>
+<h3 align="left">My name is Sem Moolenschot 🇳🇱</h3>
+<h3 align="left"></h3>
 
 
 
