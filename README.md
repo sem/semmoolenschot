@@ -1,6 +1,8 @@
-<h1 align="left">Hi fellow developers👋</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=semmoolenschot&label=Profile%20views&color=0e75b6&style=flat" alt="semmoolenschot" /> </p>
+<h1 align="left">Hi fellow developers👋</h1> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=semmoolenschot&label=Profile%20views&color=0e75b6&style=flat" alt="semmoolenschot" /> </p>
 
-<h3 align="left">My name is Sem Moolenschot</h3>
+<h2 align="left">My name is Sem Moolenschot</h2>
+<h3 align="left">About me</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semmoolenschot" alt="semmoolenschot" /></a> </p>
 
