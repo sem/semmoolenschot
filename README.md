@@ -14,8 +14,8 @@
 - Also looking to collaborate on projects
 
 
-<a href= https://github.com/semmoolenschot?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/semmoolenschot?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 
 
 
