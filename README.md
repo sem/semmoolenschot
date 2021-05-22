@@ -9,7 +9,7 @@
 
 
 
-- I’m currently learning Python and C++ 
+- I’m currently learning Python <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> and C++ 
 
 - Also looking to collaborate on projects
 
