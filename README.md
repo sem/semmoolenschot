@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sem%20Moolenschot&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
