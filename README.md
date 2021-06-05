@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sem%20 Moolenschot%20&text2=%20Junior%20 software engineer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=semmoolenschot&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
